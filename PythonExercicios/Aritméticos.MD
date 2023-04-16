@@ -39,6 +39,17 @@ print(modulo)  # 1
 print(exponenciacao) # 25
 ```
 
+## Ordem de Precedência
+
+A primeira coisa a ser calculada é o que está dentro do `()` Parentêses.
+
+A segunda coisa a ser calculada são as potências, que são as exponenciações
+
+A Terceira coisa a ser calculada são `*, /, // e %` que são a Multiplicação, Divisão, Divisão inteira e o Módulo (que é o resto da Divisão).
+Caso numa expressão tenha alguns desses citados, o cálculo é realizado por quem aparecer primeiro dentro da expressão.
+
+A Quarta coisa a ser calculada é a `+ e -` que são a Soma e a Subtração.
+
 # Referencia
 
 [Operadores no Python](https://www.devmedia.com.br/operadores-no-python/40693)
