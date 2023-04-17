@@ -6,4 +6,4 @@ dobro = n1 * 2
 triplo = n1 * 3
 raiz = n1 ** (1/2)
 
-print('O Dobro é {}, \nO Triplo é {}, \nRaiz Quadrada é {}'.format(dobro, triplo, raiz))
+print('O Dobro é {}, \nO Triplo é {}, \nRaiz Quadrada é {:.2f}'.format(dobro, triplo, raiz))
