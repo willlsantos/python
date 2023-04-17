@@ -14,4 +14,4 @@ result = soma / 2
 #print('\nA média das suas notas é {}'.format((n1+n2)/2))
 
 # Segunda forma de Print
-print('\nA média das suas notas é {}'.format(result)
+print('\nA média das suas notas é {}'.format(result))
