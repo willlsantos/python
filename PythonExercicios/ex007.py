@@ -2,8 +2,8 @@
 
 ##Cuidado como calcular, se ligue na ordem de precedencia
 
-n1 = int(input('Digite a primeira nota:'))
-n2 = int(input('Digite a segunda nota: '))
+n1 = float(input('Digite a primeira nota:'))
+n2 = float(input('Digite a segunda nota: '))
 
 soma = n1 + n2
 
@@ -14,4 +14,4 @@ result = soma / 2
 #print('\nA média das suas notas é {}'.format((n1+n2)/2))
 
 # Segunda forma de Print
-print('\nA média das suas notas é {}'.format(result))
+print('\nA média das suas notas é {:.1f}'.format(result))
