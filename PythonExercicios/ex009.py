@@ -1,5 +1,5 @@
 #TODO faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
-# Tabuada Simples
+# Print da Tabuada Simples
 
 n1 = int(input('Tabuada de qual número você quer que seja exibida?: '))
 
