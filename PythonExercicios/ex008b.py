@@ -9,4 +9,4 @@ dc = m * 10
 cm = m * 100
 mm = cm * 10
 
-print('O valor digitado em: \nKilometros é {}\nHectometros é {}\n Decametros é {}\nDecimetros é {}\nCentimetros é {}\nMilimetros é {}'.format(km, hm, deca, dc, cm, mm))
+print('O valor digitado em: \nKilometros é {} km\nHectometros é {} hm\n Decametros é {} dam\nDecimetros é {} dm\nCentimetros é {} cm\nMilimetros é {} mm'.format(km, hm, deca, dc, cm, mm))
