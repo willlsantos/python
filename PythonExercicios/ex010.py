@@ -3,7 +3,7 @@
 
 din = float(input('Quanto de dinheiro você tem na carteira? R$: '))
 
-preco_dol = 3.27
+preco_dol = 5.08
 compra_dol = din / preco_dol
 
 print('Com R${}, você pode comprar U${:.2f} Dólares'.format(din, compra_dol))
